@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+finance.db
+
+.vscode/
+
+venv/
+.venv/
+
+.env
